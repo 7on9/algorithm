@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "ios": "cpp",
+        "cmath": "cpp",
+        "ratio": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "__locale": "c",
+        "functional": "cpp",
+        "__mutex_base": "cpp",
+        "memory": "cpp"
+    },
+    "python.linting.pylintEnabled": false,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
